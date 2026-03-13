@@ -56,16 +56,6 @@ Built with **React + Three.js**, this voxel-art world features:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymhs&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 **💬 [Chat with my AI avatar](https://maksymhs.github.io)** · **📫 [LinkedIn](https://www.linkedin.com/in/herasymenko)** · **🎓 CS Engineering — UCAM Murcia (2015–2019)**
