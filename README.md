@@ -6,7 +6,7 @@
 
 Backend developer specialized in **Java**, **Spring Boot** & **microservices**. Building clean, scalable and reliable systems.
 
-🗣️ **Russian** 🇷🇺 · **Ukrainian** 🇺🇦 · **Spanish** 🇪🇸 · **English** 🇬🇧
+🗣️ **Spanish** �� · **English** �� · **Ukrainian** �� · **Russian** ��
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herasymenko)
 [![Portfolio](https://img.shields.io/badge/-🎮_Enter_My_3D_Room-FF6B6B?style=for-the-badge)](https://maksymhs.github.io)
