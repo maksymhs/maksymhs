@@ -4,7 +4,7 @@
 
 **Software Engineer · 8+ years · Madrid, Spain** 🇪🇸
 
-Backend dev by day (**Java**, **Spring Boot**, **microservices**) — creative coder by night (**Three.js**, **React Three Fiber**, **WebGL**).
+Backend developer specialized in **Java**, **Spring Boot** & **microservices**. Building clean, scalable and reliable systems.
 
 🗣️ **Russian** 🇷🇺 · **Ukrainian** 🇺🇦 · **Spanish** 🇪🇸 · **English** 🇬🇧
 
@@ -51,6 +51,18 @@ Built with **React + Three.js**, this voxel-art world features:
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymhs&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymhs&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
