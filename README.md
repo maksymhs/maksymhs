@@ -6,7 +6,7 @@
 
 Backend developer specialized in **Java**, **Spring Boot** & **microservices**. Building clean, scalable and reliable systems.
 
-🗣️ **Spanish** �� · **English** �� · **Ukrainian** �� · **Russian** ��
+🗣️ **Spanish** 🇪🇸 · **English** 🇬🇧 · **Ukrainian** 🇺🇦 · **Russian** 🇷🇺
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herasymenko)
 [![Portfolio](https://img.shields.io/badge/-🎮_Enter_My_3D_Room-FF6B6B?style=for-the-badge)](https://maksymhs.github.io)
@@ -27,13 +27,20 @@ Backend developer specialized in **Java**, **Spring Boot** & **microservices**. 
 
 </div>
 
-Built with **React + Three.js**, this voxel-art world features:
+A voxel-art interactive portfolio built with **React + Three.js** — not a static page, a living 3D world:
 
-🏠 **Interactive Room** — Bookshelf with my skills, treasure chest with my career, desk with mini-games
-� **Michi the Cat** — Click him to take a walk outside through the garden
-🤖 **AI Chat** — Ask me anything, I'll respond in EN/ES/RU with voice
-🎮 **Retro Games** — Snake, Pong & Tetris playable on the in-room monitor
-🚪 **Outdoor World** — Street with NPCs, animals, buildings to explore
+| | |
+|---|---|
+| 🏠 **Cozy Room** | Fully interactive 3D room with desk, bookshelf, sofa, bed and decorations |
+| 🤖 **AI Chat** | Multilingual chat (EN/ES/RU) powered by AI with voice & text input |
+| 📚 **Skills Bookshelf** | Click books to explore tech skills with detailed descriptions |
+| 💼 **Experience Chest** | Treasure chest with floating scrolls showing work experience |
+| 🌳 **Outdoor World** | Walk through a neighborhood with NPCs, animals and buildings |
+| 🎮 **Mini Games** | Built-in games playable on the in-room monitor |
+| 🔫 **Pixel Strike** | FPS game with enemy AI, pathfinding and mobile touch controls |
+| 🐱 **Cat Runner** | Endless runner dodging chickens and collecting fish |
+
+The AI chat triggers real-time actions in the 3D scene — say *"Let's dance!"* and the character starts dancing 🎶
 
 ---
 
