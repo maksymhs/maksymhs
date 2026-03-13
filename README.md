@@ -83,7 +83,7 @@ A full-stack app for designing customizable **3D avatars** with VRM models, inte
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
 
 <div align="center">
 
