@@ -28,6 +28,8 @@ Backend developer specialized in **Java**, **Spring Boot** & **microservices**. 
 
 A voxel-art interactive portfolio built with **React + Three.js** — not a static page, a living 3D world:
 
+<div align="center">
+
 | | |
 |---|---|
 | 🏠 **Cozy Room** | Fully interactive 3D room with desk, bookshelf, sofa, bed and decorations |
@@ -40,6 +42,8 @@ A voxel-art interactive portfolio built with **React + Three.js** — not a stat
 | 🐱 **Cat Runner** | Endless runner dodging chickens and collecting fish |
 
 The AI chat triggers real-time actions in the 3D scene — say *"Let's dance!"* and the character starts dancing 🎶
+
+</div>
 
 ---
 
@@ -57,17 +61,19 @@ The AI chat triggers real-time actions in the 3D scene — say *"Let's dance!"* 
 A multi-user **Telegram bot** that turns text descriptions into live web apps — powered by AI, Docker & Caddy:
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
-<td align="center"><strong>💬 Describe in Telegram</strong></td>
-<td align="center"><strong>🔗 Get a live URL</strong></td>
+<td align="center" width="50%"><strong>💬 Describe in Telegram</strong></td>
+<td align="center" width="50%"><strong>🔗 Get a live URL</strong></td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/maksymhs/maksymhs/main/vpsbot-chat.png" width="280" /></td>
-<td><img src="https://raw.githubusercontent.com/maksymhs/maksymhs/main/vpsbot-result.png" width="280" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/maksymhs/maksymhs/main/vpsbot-chat.png" width="400" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/maksymhs/maksymhs/main/vpsbot-result.png" width="400" /></td>
 </tr>
 </table>
 </div>
+
+<div align="center">
 
 | | |
 |---|---|
@@ -78,6 +84,8 @@ A multi-user **Telegram bot** that turns text descriptions into live web apps �
 | 👥 **Multi-user** | Per-user isolation, project limits, admin panel |
 
 Built with **Node.js**, **Telegraf**, **OpenRouter API**, **Docker** & **Caddy**.
+
+</div>
 
 ---
 
