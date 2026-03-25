@@ -32,16 +32,11 @@ A voxel-art interactive portfolio built with **React + Three.js** — not a stat
 
 | | |
 |---|---|
-| 🏠 **Cozy Room** | Fully interactive 3D room with desk, bookshelf, sofa, bed and decorations |
-| 🤖 **AI Chat** | Multilingual chat (EN/ES/RU) powered by AI with voice & text input |
-| 📚 **Skills Bookshelf** | Click books to explore tech skills with detailed descriptions |
-| 💼 **Experience Chest** | Treasure chest with floating scrolls showing work experience |
-| 🌳 **Outdoor World** | Walk through a neighborhood with NPCs, animals and buildings |
-| 🎮 **Mini Games** | Built-in games playable on the in-room monitor |
-| 🔫 **Pixel Strike** | FPS game with enemy AI, pathfinding and mobile touch controls |
-| 🐱 **Cat Runner** | Endless runner dodging chickens and collecting fish |
-
-The AI chat triggers real-time actions in the 3D scene — say *"Let's dance!"* and the character starts dancing 🎶
+| 🏠 **3D Room** | Walk around a voxel-art room with WASD — desk, bookshelf, sofa & more |
+| 🤖 **AI Chat** | Talk to my avatar in EN/ES/RU — it triggers real-time 3D actions |
+| 📚 **Skills & Experience** | Click books and treasure chests to explore my background |
+| 🎮 **Mini Games** | Play Pixel Strike (FPS) and Cat Runner on the in-room monitor |
+| 🌳 **Open World** | Explore a neighborhood with NPCs, animals and buildings |
 
 </div>
 
