@@ -44,10 +44,37 @@ The AI chat triggers real-time actions in the 3D scene — say *"Let's dance!"* 
 
 ---
 
+### 🤖 VPS Code Bot
+
+> **Describe an app → I build and deploy it. No code needed.**
+
+<div align="center">
+
+[![Try it on Telegram](https://img.shields.io/badge/-🤖_Try_it_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VpsCodeBot)
+[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maksymhs/vps-bot-multi)
+
+</div>
+
+A multi-user **Telegram bot** that turns text descriptions into live web apps — powered by AI, Docker & Caddy:
+
+| | |
+|---|---|
+| 💬 **Describe** | Tell the bot what you want in plain text |
+| 🧠 **AI generates** | DeepSeek / Llama / Qwen write the full codebase |
+| 🐳 **Auto-deploy** | Docker builds, Caddy serves with SSL |
+| 🔗 **Get a URL** | `username-myapp.domain.com` — live in ~60s |
+| 😴 **Auto-sleep** | Idle containers sleep after 30 min, wake on request |
+| 👥 **Multi-user** | Per-user isolation, project limits, admin panel |
+
+Built with **Node.js**, **Telegraf**, **OpenRouter API**, **Docker** & **Caddy**.
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
