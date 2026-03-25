@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Maksym!
 
-**Software Engineer · 8+ years · Madrid, Spain** 🇪🇸
+**Software Engineer** 🇪🇸
 
 Backend developer specialized in **Java**, **Spring Boot** & **microservices**. Building clean, scalable and reliable systems.
 
