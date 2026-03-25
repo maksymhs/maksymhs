@@ -56,9 +56,21 @@ The AI chat triggers real-time actions in the 3D scene — say *"Let's dance!"* 
 
 A multi-user **Telegram bot** that turns text descriptions into live web apps — powered by AI, Docker & Caddy:
 
+<div align="center">
+<table>
+<tr>
+<td align="center"><strong>💬 Describe in Telegram</strong></td>
+<td align="center"><strong>🔗 Get a live URL</strong></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/maksymhs/maksymhs/main/vpsbot-chat.png" width="280" /></td>
+<td><img src="https://raw.githubusercontent.com/maksymhs/maksymhs/main/vpsbot-result.png" width="280" /></td>
+</tr>
+</table>
+</div>
+
 | | |
 |---|---|
-| 💬 **Describe** | Tell the bot what you want in plain text |
 | 🧠 **AI generates** | DeepSeek / Llama / Qwen write the full codebase |
 | 🐳 **Auto-deploy** | Docker builds, Caddy serves with SSL |
 | 🔗 **Get a URL** | `username-myapp.domain.com` — live in ~60s |
