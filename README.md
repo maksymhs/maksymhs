@@ -31,6 +31,12 @@ I design and build enterprise backend services in Java and Spring Boot. My work 
 
 ---
 
+### Just for fun
+
+**[3D Interactive Portfolio](https://maksymhs.github.io)** — A voxel-art room you can walk around with WASD, chat with my AI avatar, and play mini-games. Built with React + Three.js. Not practical at all, but it was a blast to make.
+
+---
+
 ### Links
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herasymenko)
