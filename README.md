@@ -1,4 +1,4 @@
-# Maksym Herasymenko
+# Maksym
 
 **Software Engineer** · Java & Spring Ecosystem · Enterprise Systems
 
@@ -40,4 +40,3 @@ I design and build enterprise backend services in Java and Spring Boot. My work 
 ### Links
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herasymenko)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maksymhe@gmail.com)
