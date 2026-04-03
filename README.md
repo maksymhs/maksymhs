@@ -1,111 +1,37 @@
-<div align="center">
+# Maksym Herasymenko
 
-# 👋 Hey, I'm Maksym!
+**Software Engineer** · Java & Spring Ecosystem · Enterprise Systems
 
-**Software Engineer** 🇪🇸
-
-Backend developer specialized in **Java**, **Spring Boot** & **microservices**. Building clean, scalable and reliable systems.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herasymenko)
-[![Portfolio](https://img.shields.io/badge/-🎮_Enter_My_3D_Room-FF6B6B?style=for-the-badge)](https://maksymhs.github.io)
-[![VpsCodeBot](https://img.shields.io/badge/-🤖_Try_VpsCodeBot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VpsCodeBot)
-
-</div>
+8+ years building backend systems in banking and telecommunications — Santander, Openbank, Telefónica, Simyo.
 
 ---
 
-### 🎮 My Interactive 3D Portfolio
+### What I do
 
-> **This isn't a PDF resume — it's a 3D room you can explore.**
+I design and build enterprise backend services in Java and Spring Boot. My work spans architecture migrations, performance optimization, observability, and integrating modern services with legacy systems — always in environments where reliability is non-negotiable.
 
-<div align="center">
+**Recent highlights:**
 
-[![3D Portfolio Preview](https://raw.githubusercontent.com/maksymhs/maksymhs/main/portfolio-preview.png)](https://maksymhs.github.io)
-
-**👆 Click to enter · Walk around with WASD · Talk to my AI avatar**
-
-</div>
-
-A voxel-art interactive portfolio built with **React + Three.js** — not a static page, a living 3D world:
-
-<div align="center">
-
-| | |
-|---|---|
-| 🏠 **3D Room** | Walk around a voxel-art room with WASD — desk, bookshelf, sofa & more |
-| 🤖 **AI Chat** | Talk to my avatar in EN/ES/RU — it triggers real-time 3D actions |
-| 📚 **Skills & Experience** | Click books and treasure chests to explore my background |
-| 🎮 **Mini Games** | Play Pixel Strike (FPS) and Cat Runner on the in-room monitor |
-| 🌳 **Open World** | Explore a neighborhood with NPCs, animals and buildings |
-
-</div>
+- Led the backend revamping of [Simyo's mobile app](https://www.paradigmadigital.com/proyectos/revamping-simyo/) — highest-rated telco app in Spain (4.8 ★). Achieved 2x faster response times by redesigning API aggregation layers.
+- Migrated a large codebase from MVC to hexagonal architecture, enabling independent subsystem evolution.
+- Built AOP-based observability instrumentation with Spring's proxy model, feeding real-time anomaly detection via Kibana and Grafana.
+- Currently building backend features for Openbank's Germany expansion at Grupo Santander.
 
 ---
 
-### 🤖 VPS Code Bot
+### Tech I work with daily
 
-> **Describe an app → I build and deploy it. No code needed.**
-
-<div align="center">
-
-[![Try it on Telegram](https://img.shields.io/badge/-🤖_Try_it_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VpsCodeBot)
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maksymhs/vps-bot-multi)
-
-</div>
-
-A multi-user **Telegram bot** that turns text descriptions into live web apps — powered by AI, Docker & Caddy:
-
-<div align="center">
-<table width="100%">
-<tr>
-<td align="center" width="50%"><strong>💬 Describe in Telegram</strong></td>
-<td align="center" width="50%"><strong>🔗 Get a live URL</strong></td>
-</tr>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/maksymhs/maksymhs/main/vpsbot-chat.png" width="400" /></td>
-<td align="center"><img src="https://raw.githubusercontent.com/maksymhs/maksymhs/main/vpsbot-result.png" width="400" /></td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-
-| | |
-|---|---|
-| 🧠 **AI generates** | DeepSeek / Llama / Qwen write the full codebase |
-| 🐳 **Auto-deploy** | Docker builds, Caddy serves with SSL |
-| 🔗 **Get a URL** | `username-myapp.domain.com` — live in ~60s |
-| 😴 **Auto-sleep** | Idle containers sleep after 30 min, wake on request |
-| 👥 **Multi-user** | Per-user isolation, project limits, admin panel |
-
-Built with **Node.js**, **Telegraf**, **OpenRouter API**, **Docker** & **Caddy**.
-
-</div>
+`Java` `Spring Boot` `Spring MVC` `Spring Security` `Spring Data` `Spring AOP` `Hibernate` `PostgreSQL` `Redis` `Maven` `Gradle` `Docker` `AWS (SQS, CloudWatch)` `GCP` `OpenShift` `Jenkins` `SonarQube` `Grafana` `Kibana` `JUnit`
 
 ---
 
-### 🛠️ Tech Stack
+### Side projects
 
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-
-</div>
+**[VpsCodeBot](https://github.com/maksymhs/vps-bot-multi)** — A Telegram bot that generates and auto-deploys web apps from text descriptions. Built with Node.js, Docker, and Caddy. Uses LLMs via OpenRouter to generate full codebases, deploy to Docker containers with SSL, and serve them on custom subdomains — all from a Telegram chat.
 
 ---
 
-<div align="center">
+### Links
 
-**💬 [Chat with my AI avatar](https://maksymhs.github.io)** · **📫 [LinkedIn](https://www.linkedin.com/in/herasymenko)** · **🎓 CS Engineering — UCAM Murcia (2015–2019)**
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herasymenko)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maksymhe@gmail.com)
