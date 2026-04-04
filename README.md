@@ -1,6 +1,4 @@
-# Maksym
-
-**Software Engineer** · Java & Spring Ecosystem · Enterprise Systems
+# Hey, I'm Maksym 👋
 
 8+ years building backend systems in banking and telecommunications — Santander, Openbank, Telefónica, Simyo.
 
