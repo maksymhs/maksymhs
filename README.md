@@ -32,7 +32,7 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Projects
 
 - **[maksym.site](https://maksym.site)** ([source](https://github.com/maksymhs/maksymhs.github.io)): my site, open source. Static pages on GitHub Pages and a Cloudflare Worker that serves the "Ask my CV" assistant, the contact form and the MCP server.
-- **[Ask your own AI about me](https://maksym.site/#mcp)**: open Claude or ChatGPT with my profile already linked, in one click and with no setup. Or add my public MCP server (`https://api.maksym.site/mcp`, no sign-up, no API key) as a connector in Claude (Settings → Connectors → Add custom connector), Cursor, Windsurf or VS Code, and your assistant can read my experience, evaluate my fit for a role or send me a message. For Claude Code: `claude mcp add --transport http maksym https://api.maksym.site/mcp`.
+- **[Talk to my CV from your own AI](https://maksym.site/#mcp)**: your assistant answers as me, in the first person and based only on my profile, and says it is an AI. One click opens it in Claude or ChatGPT, with no setup. Or add my public MCP server (`https://api.maksym.site/mcp`, no sign-up, no API key) as a connector in Claude (Settings → Connectors → Add custom connector), Cursor, Windsurf or VS Code and use `/talk_to_maksym`. For Claude Code: `claude mcp add --transport http maksym https://api.maksym.site/mcp`.
 - **[Radar](https://maksym.site/radar/)**: daily backend, cloud and fintech picks with commentary, drafted with AI assistance and published automatically by a scheduled routine. [RSS](https://maksym.site/radar/feed.xml).
 
 ### Latest from the radar
