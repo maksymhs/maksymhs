@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://maksym.site"><img alt="Website" src="https://img.shields.io/badge/maksym.site-1F4E79?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/herasymenko"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://maksym.site/cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-555555?style=flat-square"></a>
 </p>
 
 ---
