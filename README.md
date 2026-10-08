@@ -1,4 +1,4 @@
-<h1 align="center">Maksym Herasymenko</h1>
+<h1 align="center">Maksym</h1>
 
 <p align="center"><b>Senior Backend Engineer</b> · Java · Spring Boot · distributed systems</p>
 
