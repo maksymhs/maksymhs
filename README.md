@@ -6,18 +6,7 @@
   <a href="https://maksym.site"><img alt="Website" src="https://img.shields.io/badge/maksym.site-1F4E79?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/herasymenko"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://maksym.site/cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-555555?style=flat-square"></a>
-  <a href="https://maksym.site/radar/"><img alt="Radar" src="https://img.shields.io/badge/Radar-daily-2EA043?style=flat-square"></a>
-  <a href="https://calendly.com/maksymhe"><img alt="Book a call" src="https://img.shields.io/badge/Book%20a%20call-20%20min-006BFF?style=flat-square&logo=calendly&logoColor=white"></a>
 </p>
-
-10 years building high-traffic, regulated backend systems for banking and telco. Open to senior backend, platform and fintech engineering roles.
-
-| | |
-|---|---|
-| **Location** | Madrid, Spain |
-| **Work model** | Remote |
-| **Work authorization** | Authorized to work in the EU |
-| **Languages** | Spanish, Russian, Ukrainian (native) · English (professional) |
 
 ---
 
