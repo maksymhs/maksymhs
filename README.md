@@ -38,11 +38,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [Spring Boot 4.2.0-M2 brings OpenTelemetry conventions and LDAP SSL bundles](https://maksym.site/radar/2026-10-09/) · 9 Oct 2026
 - [Multi-agent systems need boundaries, tests and traces](https://maksym.site/radar/2026-10-08/) · 8 Oct 2026
 - [Grab halves p99 latency by redesigning its counter storage](https://maksym.site/radar/2026-10-07/) · 7 Oct 2026
 - [OpenTelemetry's Kubernetes processor hits 1.0, with renames to plan for](https://maksym.site/radar/2026-10-06/) · 6 Oct 2026
 - [AWS treats digital sovereignty as an architecture question](https://maksym.site/radar/2026-10-05/) · 5 Oct 2026
-- [Cloudflare Traces puts the whole request path in one trace](https://maksym.site/radar/2026-10-02/) · 2 Oct 2026
 <!-- radar:end -->
 
 ### Contact
