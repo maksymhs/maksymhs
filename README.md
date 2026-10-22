@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://maksym.site"><img alt="Website" src="https://img.shields.io/badge/maksym.site-1F4E79?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://maksym.site/citadel/"><img alt="Citadel" src="https://img.shields.io/badge/Citadel-open%20source-b4441b?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/herasymenko"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -31,8 +32,9 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 
 ### Projects
 
-- **[maksym.site](https://maksym.site)** ([source](https://github.com/maksymhs/maksymhs.github.io)): my site, open source. Static pages on GitHub Pages and a Cloudflare Worker that serves the "Ask my CV" assistant, the contact form and the MCP server.
-- **[Talk to my CV from your own AI](https://maksym.site/#mcp)**: your assistant answers as me, in the first person and based only on my profile, and says it is an AI. One click opens it in Claude or ChatGPT, with no setup. Or add my public MCP server (`https://api.maksym.site/mcp`, no sign-up, no API key) as a connector in Claude (Settings → Connectors → Add custom connector), Cursor, Windsurf or VS Code and use `/talk_to_maksym`. For Claude Code: `claude mcp add --transport http maksym https://api.maksym.site/mcp`.
+- **[Citadel](https://maksym.site/citadel/)** ([source](https://github.com/maksymhs/Citadel), MIT): open-source, self-hosted command center for projects, terminals and AI coding agents. Persistent tmux terminals that survive closing the browser, a launcher for Claude Code, Codex CLI, OpenCode and others, an AES-256-GCM credential vault, machines paired by QR code, health alerts and a task mesh with an MCP server. Node.js, Fastify and SQLite; runs on 512 MB of RAM. Install: `curl -fsSL https://raw.githubusercontent.com/maksymhs/Citadel/main/install.sh | bash`.
+- **[maksym.site](https://maksym.site)** ([source](https://github.com/maksymhs/maksymhs.github.io)): my site, open source: a hub, an About page and the Citadel landing. Static pages on GitHub Pages and a Cloudflare Worker that serves the "Ask me" assistant, the contact form and the MCP server.
+- **[Talk to me from your own AI](https://maksym.site/about/#mcp)**: your assistant answers as me, in the first person and based only on my profile, and says it is an AI. One click opens it in Claude or ChatGPT, with no setup. Or add my public MCP server (`https://api.maksym.site/mcp`, no sign-up, no API key) as a connector in Claude (Settings → Connectors → Add custom connector), Cursor, Windsurf or VS Code and use `/talk_to_maksym`. For Claude Code: `claude mcp add --transport http maksym https://api.maksym.site/mcp`.
 - **[Radar](https://maksym.site/radar/)**: daily backend, cloud and fintech picks with commentary, drafted with AI assistance and published automatically by a scheduled routine. [RSS](https://maksym.site/radar/feed.xml).
 
 ### Latest from the radar
@@ -47,4 +49,4 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 
 ### Contact
 
-[Contact form](https://maksym.site/#contact) · [Book a 20-minute call](https://calendly.com/maksymhe) · [LinkedIn](https://www.linkedin.com/in/herasymenko)
+[Contact form](https://maksym.site/about/#contact) · [Book a 20-minute call](https://calendly.com/maksymhe) · [LinkedIn](https://www.linkedin.com/in/herasymenko)
