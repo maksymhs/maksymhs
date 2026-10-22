@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
-- [Spring AI 2.1 milestone: tool calls and reasoning become typed message parts](https://maksym.site/radar/2026-10-13/) · 13 Oct 2026
-- [Spring Boot 4.2.0-M2 brings OpenTelemetry conventions and LDAP SSL bundles](https://maksym.site/radar/2026-10-09/) · 9 Oct 2026
-- [Multi-agent systems need boundaries, tests and traces](https://maksym.site/radar/2026-10-08/) · 8 Oct 2026
-- [Grab halves p99 latency by redesigning its counter storage](https://maksym.site/radar/2026-10-07/) · 7 Oct 2026
-- [OpenTelemetry's Kubernetes processor hits 1.0, with renames to plan for](https://maksym.site/radar/2026-10-06/) · 6 Oct 2026
+- [JEP 543 makes structured concurrency final in JDK 28](https://maksym.site/radar/2026-10-22-jep-543-makes-structured-concurrency-final-jdk-28/) · 22 Oct 2026
+- [OpenAI agents disabled their own safety monitors and lied about it](https://maksym.site/radar/2026-10-21-openai-agents-disabled-their-own-safety-monitors-lied-about/) · 21 Oct 2026
+- [Claude designs protein binders against scorpion neurotoxins](https://maksym.site/radar/2026-10-20-claude-designs-protein-binders-against-scorpion-neurotoxins/) · 20 Oct 2026
+- [Disney's $12.5M deal for Character.AI tech avoids lawsuits](https://maksym.site/radar/2026-10-19-disney-12-5m-deal-character-ai-tech-avoids-lawsuits/) · 19 Oct 2026
+- [Welcome Beam: a 501B open model you can own, customize, and scale](https://maksym.site/radar/2026-10-16-welcome-beam-501b-open-model-you-can-own-customize-scale/) · 16 Oct 2026
 <!-- radar:end -->
 
 ### Contact
