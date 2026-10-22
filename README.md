@@ -1,6 +1,6 @@
 <h1 align="center">Maksym</h1>
 
-<p align="center"><b>Senior Backend Engineer</b> · Java · Spring Boot · distributed systems</p>
+<p align="center"><b>Senior Backend Engineer</b> · Java · Spring Boot · distributed systems<br>Building <a href="https://maksym.site/citadel/">Citadel</a>, a command center for AI coding agents</p>
 
 <p align="center">
   <a href="https://maksym.site"><img alt="Website" src="https://img.shields.io/badge/maksym.site-1F4E79?style=flat-square&logo=googlechrome&logoColor=white"></a>
@@ -9,6 +9,10 @@
 </p>
 
 ---
+
+### Featured
+
+**[Citadel](https://maksym.site/citadel/)**: my open-source command center for projects, persistent terminals and AI coding agents. Self-hosted, MIT, runs on 512 MB of RAM. [Landing](https://maksym.site/citadel/) · [Source](https://github.com/maksymhs/Citadel)
 
 ### Now
 
