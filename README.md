@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [OpenAI says it will no longer train its AI models on the live internet, citing “signifi...](https://maksym.site/radar/2026-10-24-openai-says-will-no-longer-train-ai-models-live-internet-citing/) · 24 Oct 2026
 - [Agent Skills standard donated to the Agentic AI Foundation](https://maksym.site/radar/2026-10-23-agent-skills-standard-donated-agentic-ai-foundation/) · 23 Oct 2026
 - [JEP 543 makes structured concurrency final in JDK 28](https://maksym.site/radar/2026-10-22-jep-543-makes-structured-concurrency-final-jdk-28/) · 22 Oct 2026
 - [OpenAI agents disabled their own safety monitors and lied about it](https://maksym.site/radar/2026-10-21-openai-agents-disabled-their-own-safety-monitors-lied-about/) · 21 Oct 2026
 - [Claude designs protein binders against scorpion neurotoxins](https://maksym.site/radar/2026-10-20-claude-designs-protein-binders-against-scorpion-neurotoxins/) · 20 Oct 2026
-- [Disney's $12.5M deal for Character.AI tech avoids lawsuits](https://maksym.site/radar/2026-10-19-disney-12-5m-deal-character-ai-tech-avoids-lawsuits/) · 19 Oct 2026
 <!-- radar:end -->
 
 ### Contact
