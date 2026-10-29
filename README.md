@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [Gemini 4 Carbon: Our next frontier model](https://maksym.site/radar/2026-10-29-gemini-4-carbon-our-next-frontier-model/) · 29 Oct 2026
 - [DeepMind's Genie 4 brings realistic physics and audio to world models](https://maksym.site/radar/2026-10-28-deepmind-genie-4-brings-realistic-physics-audio-world-models/) · 28 Oct 2026
 - [Anthropic files S-1 with the SEC for proposed initial public offering](https://maksym.site/radar/2026-10-27-anthropic-files-s-1-sec-proposed-initial-public-offering/) · 27 Oct 2026
 - [Java Champions on GitHub Copilot: agentic workflows and virtual-thread pitfalls](https://maksym.site/radar/2026-10-26-java-champions-github-copilot-agentic-workflows-virtual-thread/) · 26 Oct 2026
 - [Google's Gemini 4 Argon optimizes ADK codebase with 40% session overhead reduction](https://maksym.site/radar/2026-10-25-google-gemini-4-argon-optimizes-adk-codebase-40-session-overhead/) · 25 Oct 2026
-- [OpenAI says it will no longer train its AI models on the live internet, citing “signifi...](https://maksym.site/radar/2026-10-24-openai-says-will-no-longer-train-ai-models-live-internet-citing/) · 24 Oct 2026
 <!-- radar:end -->
 
 ### Contact
