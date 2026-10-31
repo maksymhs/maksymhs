@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [BoxLang AI 3.6 Adds Browser, Audio, and MCP Modules for JVM Agents](https://maksym.site/radar/2026-10-31-boxlang-ai-3-6-adds-browser-audio-mcp-modules-jvm-agents/) · 31 Oct 2026
 - [Mistral's Le Chonk: open-weight model targets coding and cyber defense](https://maksym.site/radar/2026-10-30-mistral-le-chonk-open-weight-model-targets-coding-cyber-defense/) · 30 Oct 2026
 - [Gemini 4 Carbon: Our next frontier model](https://maksym.site/radar/2026-10-29-gemini-4-carbon-our-next-frontier-model/) · 29 Oct 2026
 - [DeepMind's Genie 4 brings realistic physics and audio to world models](https://maksym.site/radar/2026-10-28-deepmind-genie-4-brings-realistic-physics-audio-world-models/) · 28 Oct 2026
 - [Anthropic files S-1 with the SEC for proposed initial public offering](https://maksym.site/radar/2026-10-27-anthropic-files-s-1-sec-proposed-initial-public-offering/) · 27 Oct 2026
-- [Java Champions on GitHub Copilot: agentic workflows and virtual-thread pitfalls](https://maksym.site/radar/2026-10-26-java-champions-github-copilot-agentic-workflows-virtual-thread/) · 26 Oct 2026
 <!-- radar:end -->
 
 ### Contact
