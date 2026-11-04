@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [Google's LiteRT Tensor API for on-device ML models](https://maksym.site/radar/2026-11-04-google-litert-tensor-api-device-ml-models/) · 4 Nov 2026
 - [LLMs can edit neural network weights: Weight Space Programming](https://maksym.site/radar/2026-11-03-llms-can-edit-neural-network-weights-weight-space-programming/) · 3 Nov 2026
 - [Agentic web: the new frontier for AI](https://maksym.site/radar/2026-11-02-agentic-web-new-frontier-ai/) · 2 Nov 2026
 - [Docusign's contract agents and Spring's AI push](https://maksym.site/radar/2026-11-01-docusign-contract-agents-spring-ai-push/) · 1 Nov 2026
 - [BoxLang AI 3.6 Adds Browser, Audio, and MCP Modules for JVM Agents](https://maksym.site/radar/2026-10-31-boxlang-ai-3-6-adds-browser-audio-mcp-modules-jvm-agents/) · 31 Oct 2026
-- [Mistral's Le Chonk: open-weight model targets coding and cyber defense](https://maksym.site/radar/2026-10-30-mistral-le-chonk-open-weight-model-targets-coding-cyber-defense/) · 30 Oct 2026
 <!-- radar:end -->
 
 ### Contact
