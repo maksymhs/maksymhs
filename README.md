@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [Agent memory design and serverless MCP on Amazon ECS Fargate](https://maksym.site/radar/2026-11-07-agent-memory-design-serverless-mcp-amazon-ecs-fargate/) · 7 Nov 2026
 - [Together AI keeps humans in control as coding agents rewrite GPU code](https://maksym.site/radar/2026-11-06-together-ai-keeps-humans-control-coding-agents-rewrite-gpu-code/) · 6 Nov 2026
 - [How big is the open model economy today?](https://maksym.site/radar/2026-11-05-how-big-open-model-economy-today/) · 5 Nov 2026
 - [Google's LiteRT Tensor API for on-device ML models](https://maksym.site/radar/2026-11-04-google-litert-tensor-api-device-ml-models/) · 4 Nov 2026
 - [LLMs can edit neural network weights: Weight Space Programming](https://maksym.site/radar/2026-11-03-llms-can-edit-neural-network-weights-weight-space-programming/) · 3 Nov 2026
-- [Agentic web: the new frontier for AI](https://maksym.site/radar/2026-11-02-agentic-web-new-frontier-ai/) · 2 Nov 2026
 <!-- radar:end -->
 
 ### Contact
