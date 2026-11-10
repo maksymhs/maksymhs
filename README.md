@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [Claude Fable 5.2 and Mythos 5.2 on AWS: what backend teams need to know](https://maksym.site/radar/2026-11-10-claude-fable-5-2-mythos-5-2-aws-what-backend-teams-need-know/) · 10 Nov 2026
 - [Article: Agentic AI Architecture: Current Challenges and Future Opportunities](https://maksym.site/radar/2026-11-09-article-agentic-ai-architecture-current-challenges-future/) · 9 Nov 2026
 - [AI agents are getting more complex. Developers shouldn’t have to babysit them.](https://maksym.site/radar/2026-11-08-ai-agents-getting-more-complex-developers-shouldnt-have-babysit/) · 8 Nov 2026
 - [Agent memory design and serverless MCP on Amazon ECS Fargate](https://maksym.site/radar/2026-11-07-agent-memory-design-serverless-mcp-amazon-ecs-fargate/) · 7 Nov 2026
 - [Together AI keeps humans in control as coding agents rewrite GPU code](https://maksym.site/radar/2026-11-06-together-ai-keeps-humans-control-coding-agents-rewrite-gpu-code/) · 6 Nov 2026
-- [How big is the open model economy today?](https://maksym.site/radar/2026-11-05-how-big-open-model-economy-today/) · 5 Nov 2026
 <!-- radar:end -->
 
 ### Contact
