@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [AWS launches SGLang-Neuron for Trainium, Natera's lab ops agent](https://maksym.site/radar/2026-11-13-aws-launches-sglang-neuron-trainium-natera-lab-ops-agent/) · 13 Nov 2026
 - [Kiji Inspector explains AI agent decisions](https://maksym.site/radar/2026-11-12-kiji-inspector-explains-ai-agent-decisions/) · 12 Nov 2026
 - [New York's AI safety law takes effect, impacting OpenAI and Anthropic](https://maksym.site/radar/2026-11-11-new-york-ai-safety-law-takes-effect-impacting-openai-anthropic/) · 11 Nov 2026
 - [Claude Fable 5.2 and Mythos 5.2 on AWS: what backend teams need to know](https://maksym.site/radar/2026-11-10-claude-fable-5-2-mythos-5-2-aws-what-backend-teams-need-know/) · 10 Nov 2026
 - [Article: Agentic AI Architecture: Current Challenges and Future Opportunities](https://maksym.site/radar/2026-11-09-article-agentic-ai-architecture-current-challenges-future/) · 9 Nov 2026
-- [AI agents are getting more complex. Developers shouldn’t have to babysit them.](https://maksym.site/radar/2026-11-08-ai-agents-getting-more-complex-developers-shouldnt-have-babysit/) · 8 Nov 2026
 <!-- radar:end -->
 
 ### Contact
