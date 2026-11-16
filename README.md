@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [Llama.cpp 1.0.0: a new foundation for local AI](https://maksym.site/radar/2026-11-16-llama-cpp-1-0-0-new-foundation-local-ai/) · 16 Nov 2026
 - [Anthropic's AI-powered code review boosts pull request quality](https://maksym.site/radar/2026-11-15-anthropic-ai-powered-code-review-boosts-pull-request-quality/) · 15 Nov 2026
 - [Google Search gets a major upgrade with Gemini 4 Hydrogen](https://maksym.site/radar/2026-11-14-google-search-gets-major-upgrade-gemini-4-hydrogen/) · 14 Nov 2026
 - [AWS launches SGLang-Neuron for Trainium, Natera's lab ops agent](https://maksym.site/radar/2026-11-13-aws-launches-sglang-neuron-trainium-natera-lab-ops-agent/) · 13 Nov 2026
 - [Kiji Inspector explains AI agent decisions](https://maksym.site/radar/2026-11-12-kiji-inspector-explains-ai-agent-decisions/) · 12 Nov 2026
-- [New York's AI safety law takes effect, impacting OpenAI and Anthropic](https://maksym.site/radar/2026-11-11-new-york-ai-safety-law-takes-effect-impacting-openai-anthropic/) · 11 Nov 2026
 <!-- radar:end -->
 
 ### Contact
