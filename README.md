@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [OpenAI's MedChemBench tests AI models on medicinal chemistry](https://maksym.site/radar/2026-11-21-openai-medchembench-tests-ai-models-medicinal-chemistry/) · 21 Nov 2026
 - [Google's Tool Retrieval for Gemini and AWS's agent-built emulator](https://maksym.site/radar/2026-11-20-google-tool-retrieval-gemini-aws-agent-built-emulator/) · 20 Nov 2026
 - [Gemini 4 Neon released for engineering, knowledge work and science](https://maksym.site/radar/2026-11-19-gemini-4-neon-released-engineering-knowledge-work-science/) · 19 Nov 2026
 - [NVIDIA's Sparse Attention for Efficient Long-Context Inference](https://maksym.site/radar/2026-11-18-nvidia-sparse-attention-efficient-long-context-inference/) · 18 Nov 2026
 - [Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVID...](https://maksym.site/radar/2026-11-17-accelerate-molecular-dynamics-simulations-accurate-flexible/) · 17 Nov 2026
-- [Llama.cpp 1.0.0: a new foundation for local AI](https://maksym.site/radar/2026-11-16-llama-cpp-1-0-0-new-foundation-local-ai/) · 16 Nov 2026
 <!-- radar:end -->
 
 ### Contact
