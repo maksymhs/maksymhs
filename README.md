@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [Anthropic's Claude Ship automates pull requests](https://maksym.site/radar/2026-11-24-anthropic-claude-ship-automates-pull-requests/) · 24 Nov 2026
 - [OpenAI's perplexity breakthrough and the AI safety debate](https://maksym.site/radar/2026-11-23-openai-perplexity-breakthrough-ai-safety-debate/) · 23 Nov 2026
 - [Google's Agent Compute Engine for secure AI agent execution](https://maksym.site/radar/2026-11-22-google-agent-compute-engine-secure-ai-agent-execution/) · 22 Nov 2026
 - [OpenAI's MedChemBench tests AI models on medicinal chemistry](https://maksym.site/radar/2026-11-21-openai-medchembench-tests-ai-models-medicinal-chemistry/) · 21 Nov 2026
 - [Google's Tool Retrieval for Gemini and AWS's agent-built emulator](https://maksym.site/radar/2026-11-20-google-tool-retrieval-gemini-aws-agent-built-emulator/) · 20 Nov 2026
-- [Gemini 4 Neon released for engineering, knowledge work and science](https://maksym.site/radar/2026-11-19-gemini-4-neon-released-engineering-knowledge-work-science/) · 19 Nov 2026
 <!-- radar:end -->
 
 ### Contact
