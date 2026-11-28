@@ -44,11 +44,11 @@ Building the backend for Openbank's launch in Germany (Grupo Santander): Java an
 ### Latest from the radar
 
 <!-- radar:start -->
+- [Azure AI Gateway now generally available](https://maksym.site/radar/2026-11-28-azure-ai-gateway-now-generally-available/) · 28 Nov 2026
 - [Verifiable Social Reasoning for LLM Assistants](https://maksym.site/radar/2026-11-27-verifiable-social-reasoning-llm-assistants/) · 27 Nov 2026
 - [GPT-6 models design proteins, OpenAI claims math breakthrough](https://maksym.site/radar/2026-11-26-gpt-6-models-design-proteins-openai-claims-math-breakthrough/) · 26 Nov 2026
 - [Amateurs find exoplanets with OpenAI Codex and Astra](https://maksym.site/radar/2026-11-25-amateurs-find-exoplanets-openai-codex-astra/) · 25 Nov 2026
 - [Anthropic's Claude Ship automates pull requests](https://maksym.site/radar/2026-11-24-anthropic-claude-ship-automates-pull-requests/) · 24 Nov 2026
-- [OpenAI's perplexity breakthrough and the AI safety debate](https://maksym.site/radar/2026-11-23-openai-perplexity-breakthrough-ai-safety-debate/) · 23 Nov 2026
 <!-- radar:end -->
 
 ### Contact
